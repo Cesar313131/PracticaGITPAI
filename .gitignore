@@ -1,0 +1,17 @@
+# datos: nunca, jamas
+data/
+*.dcm
+*.nii
+*.nii.gz
+*.mp4
+# modelos entrenados: pesan demasiado
+*.pt
+*.pth
+*.h5
+*.onnx
+# entorno y basura
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
